@@ -1,7 +1,9 @@
 ###################
 Books Project
 ###################
-
-Books Project digunakan sebagai sample project untuk keperluan perkuliahan di Pendidikan TIK FKIP Universitas Sebelas Maret. Books Project merupakan Web-based Project Application yang dibuat menggunakan Codeigniter PHP Framework.
-
-Aplikasi ini secara umum digunakan untuk keperluan CRUD data buku.
+UAS PEMWEB
+Sulis Setiyawati - K3517058 - B
+link: sulissetiyawati.000webhostapp.com
+login admin (pwd: 123456)
+login user (pwd: sulis)
+**saat sudah terhosting masih terdapat error pada bagian login, tetapi pada saat dibuka dg localhost tidak.
